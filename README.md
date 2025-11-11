@@ -1,4 +1,4 @@
-# XUI
+# XUI ONE 1.5.5
 
 Instructions:
 1. Download and install XUI one latest version (1.5.5) - https://update.xui.one/XUI_1.5.12.zip
